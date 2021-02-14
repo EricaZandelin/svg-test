@@ -1,0 +1,17 @@
+
+
+.all {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.easy {
+    width: 220px;
+}
+
+.medium {
+    width: 220px;
+}
+
+
